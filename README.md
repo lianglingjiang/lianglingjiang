@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [lianglingjiang.github.io](lianglingjiang.github.io)
+- 👨‍💻 All of my projects are available at [lianglingjiang.github.io](https://lianglingjiang.github.io)
 
 - 📫 How to reach me **lianglingjiang@hotmail.com**
 
