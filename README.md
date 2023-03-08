@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lianglingjiang@hotmail.com**
 
-- 📄 Know about my experiences [My Resume](https://lianglingjiang.github.io/static/Lingjiang_Liang_-_Resume-380f606ae98a5464f63296e705197085.pdf)
+- 📄 Know about my experiences [My Resume](https://lianglingjiang.github.io/static/Lingjiang_Liang_-_Resume-4e987c2a16f39795136898907acdff27.pdf.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
