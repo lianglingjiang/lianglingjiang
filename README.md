@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Three.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [lianglingjiang.github.com](lianglingjiang.github.com)
+- 👨‍💻 All of my projects are available at [lianglingjiang.github.io](lianglingjiang.github.io)
 
 - 📫 How to reach me **lianglingjiang@hotmail.com**
 
-- 📄 Know about my experiences [https://lianglingjiang.github.io/static/Lingjiang_Liang_-_Resume-380f606ae98a5464f63296e705197085.pdf](https://lianglingjiang.github.io/static/Lingjiang_Liang_-_Resume-380f606ae98a5464f63296e705197085.pdf)
+- 📄 Know about my experiences [My Resume](https://lianglingjiang.github.io/static/Lingjiang_Liang_-_Resume-380f606ae98a5464f63296e705197085.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
